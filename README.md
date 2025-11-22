@@ -53,7 +53,7 @@ int main() {
 
 # Output:
 
-<img width="1681" height="400" alt="Screenshot 2025-11-19 132031" src="https://github.com/user-attachments/assets/7131cd50-107c-4010-81dd-d73072d0e05e" />
+<img width="1681" height="400" alt="Screenshot 2025-11-19 132031" src="https://github.com/abdullah52iit-mohamed/19AI304-Fundamentals-of-C-Programming-2025-Odd-M1/blob/main/image.png" />
 
 
 # Result: 
