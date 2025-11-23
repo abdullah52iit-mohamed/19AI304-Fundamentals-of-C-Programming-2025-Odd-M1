@@ -37,7 +37,7 @@ int main() {
 
     char charLiteral = 'A';
     
-    char stringLiteral[] = "Hello, Susmitha!";
+    char stringLiteral[] = "Hello, Abdullah!";
     
     printf("Integer Literal: %d\n", intLiteral);
     
